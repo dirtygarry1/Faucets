@@ -1,4 +1,4 @@
-# Faucets
+# Faucets!
 
 ## ZkSync
 
